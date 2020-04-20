@@ -59,6 +59,13 @@
             "descripcion": "Colores a escoger",
             "precio": "¢1000",
             "imagen": "./img/articulos/foto4.jpeg"
+        },
+        {
+            "id": 5,
+            "nombre": "Adorno Bebé",
+            "descripcion": "Peluches y colores a escoger",
+            "precio": "¢5000",
+            "imagen": "./img/articulos/foto5.jpeg"
         }
     ]
 }

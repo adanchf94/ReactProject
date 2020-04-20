@@ -63,10 +63,10 @@
             "imagen": "./img/articulos/foto6.jpeg"
         },
         {
-            "nombre": "Globo_test",
-            "descripcion": "Globo 2",
+            "nombre": "Globo",
+            "descripcion": "Globo 1",
             "precio": "¢5000",
-            "imagen": "./img/articulos/foto7.jpeg"
+            "imagen": "./img/articulos/foto6.jpeg"
         }
     ]
 }

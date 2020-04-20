@@ -1,32 +1,48 @@
-[
-    {
-        "id": 1,
-        "name": "Adan Chavarria",
-        "email": "adanchf94@hotmail.com",
-        "password": "123"
-    },
-    {
-        "id": 2,
-        "name": "Test1",
-        "email": "test1@correo.com",
-        "password": "test1"
-    },
-    {
-        "id": 3,
-        "name": "Test2",
-        "email": "test2@correo.com",
-        "password": "test2"
-    },
-    {
-        "id": 4,
-        "name": "Test3",
-        "email": "test3@correo.com",
-        "password": "test3"
-    },
-    {
-        "id": 5,
-        "name": "Test4",
-        "email": "test4@correo.com",
-        "password": "test4"
-    }
-]
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Adan Chavarria",
+            "email": "adanchf94@hotmail.com",
+            "password": "123"
+        },
+        {
+            "id": 2,
+            "name": "Test1",
+            "email": "test1@correo.com",
+            "password": "test1"
+        },
+        {
+            "id": 3,
+            "name": "Test2",
+            "email": "test2@correo.com",
+            "password": "test2"
+        },
+        {
+            "id": 4,
+            "name": "Test3",
+            "email": "test3@correo.com",
+            "password": "test3"
+        },
+        {
+            "id": 5,
+            "name": "Test4",
+            "email": "test4@correo.com",
+            "password": "test4"
+        }
+    ],
+    "articulos": [
+        {
+            "nombre": "",
+            "imagen": ""
+        },
+        {
+            "nombre": "",
+            "imagen": ""
+        },
+        {
+            "nombre": "",
+            "imagen": ""
+        }
+    ]
+}

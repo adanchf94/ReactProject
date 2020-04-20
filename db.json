@@ -35,25 +35,25 @@
         {
             "nombre": "Centro de Mesa",
             "descripcion": "Centro de mesa 1",
-            "precio": "2000",
+            "precio": "¢2000",
             "imagen": "./img/articulos/foto2.jpeg"
         },
         {
             "nombre": "Recuerdo",
             "descripcion": "Recuerdo 1",
-            "precio": "1000",
+            "precio": "¢1000",
             "imagen": "./img/articulos/foto3.jpeg"
         },
         {
             "nombre": "Envoltorio de regalo",
             "descripcion": "Envoltorio de regalo 1",
-            "precio": "1000",
+            "precio": "¢1000",
             "imagen": "./img/articulos/foto4.jpeg"
         },
         {
             "nombre": "Regalo",
             "descripcion": "Regalo 1",
-            "precio": "1000",
+            "precio": "¢1000",
             "imagen": "./img/articulos/foto5.jpeg"
         }
     ]

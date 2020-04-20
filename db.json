@@ -33,16 +33,20 @@
     ],
     "articulos": [
         {
-            "nombre": "",
-            "imagen": ""
+            "nombre": "Centro de Mesa",
+            "imagen": "./img/articulos/foto2.jpeg"
         },
         {
-            "nombre": "",
-            "imagen": ""
+            "nombre": "Recuerdo",
+            "imagen": "./img/articulos/foto3.jpeg"
         },
         {
-            "nombre": "",
-            "imagen": ""
+            "nombre": "Envoltorio de regalo",
+            "imagen": "./img/articulos/foto4.jpeg"
+        },
+        {
+            "nombre": "Regalo",
+            "imagen": "./img/articulos/foto5.jpeg"
         }
     ]
 }

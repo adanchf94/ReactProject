@@ -34,36 +34,36 @@
     "articulos": [
         {
             "id": 1,
-            "nombre": "Centro de Mesa",
-            "descripcion": "Centro de mesa 1",
+            "nombre": "Recuerdo Baby Shower",
+            "descripcion": "Recuerdo Baby Shower 1",
             "precio": "¢2000",
-            "imagen": "./img/articulos/foto2.jpeg"
-        },
-        {
-            "id": 2,
-            "nombre": "Recuerdo",
-            "descripcion": "Recuerdo 1",
-            "precio": "¢1000",
             "imagen": "./img/articulos/foto3.jpeg"
         },
         {
+            "id": 2,
+            "nombre": "Centro de Mesa",
+            "descripcion": "Centro de mesa 1",
+            "precio": "¢1000",
+            "imagen": "./img/articulos/foto2.jpeg"
+        },
+        {
             "id": 3,
-            "nombre": "Envoltorio de regalo",
-            "descripcion": "Envoltorio de regalo 1",
+            "nombre": "Caja Decorada",
+            "descripcion": "Caja personalizable",
             "precio": "¢1000",
             "imagen": "./img/articulos/foto4.jpeg"
         },
         {
             "id": 4,
-            "nombre": "Regalo",
-            "descripcion": "Regalo 1",
+            "nombre": "Barril de Confites",
+            "descripcion": "Colores a escoger",
             "precio": "¢1000",
             "imagen": "./img/articulos/foto5.jpeg"
         },
         {
             "id": 5,
-            "nombre": "Globo",
-            "descripcion": "Globo 1",
+            "nombre": "Adorno Bebé",
+            "descripcion": "Peluches y colores a escoger",
             "precio": "¢5000",
             "imagen": "./img/articulos/foto6.jpeg"
         }

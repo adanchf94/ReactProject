@@ -35,14 +35,14 @@
         {
             "id": 1,
             "nombre": "Recuerdo Baby Shower",
-            "descripcion": "Recuerdo Baby Shower 1",
+            "descripcion": "Recuerdo Baby Shower",
             "precio": "¢2000",
             "imagen": "./img/articulos/foto1.jpeg"
         },
         {
             "id": 2,
             "nombre": "Centro de Mesa",
-            "descripcion": "Centro de mesa 1",
+            "descripcion": "Centro de mesa",
             "precio": "¢1000",
             "imagen": "./img/articulos/foto2.jpeg"
         },

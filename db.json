@@ -37,7 +37,7 @@
             "nombre": "Recuerdo Baby Shower",
             "descripcion": "Recuerdo Baby Shower 1",
             "precio": "¢2000",
-            "imagen": "./img/articulos/foto3.jpeg"
+            "imagen": "./img/articulos/foto1.jpeg"
         },
         {
             "id": 2,
@@ -51,21 +51,21 @@
             "nombre": "Caja Decorada",
             "descripcion": "Caja personalizable",
             "precio": "¢1000",
-            "imagen": "./img/articulos/foto4.jpeg"
+            "imagen": "./img/articulos/foto3.jpeg"
         },
         {
             "id": 4,
             "nombre": "Barril de Confites",
             "descripcion": "Colores a escoger",
             "precio": "¢1000",
-            "imagen": "./img/articulos/foto5.jpeg"
+            "imagen": "./img/articulos/foto4.jpeg"
         },
         {
             "id": 5,
             "nombre": "Adorno Bebé",
             "descripcion": "Peluches y colores a escoger",
             "precio": "¢5000",
-            "imagen": "./img/articulos/foto6.jpeg"
+            "imagen": "./img/articulos/foto5.jpeg"
         }
     ]
 }
